@@ -27,4 +27,3 @@ I'm a Full-Stack Developer. I specialize in MERN Stack, Next.js and TypeScript, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammadzaidkhann&icon=2&color=0)](https://visitcount.itsvg.in)
