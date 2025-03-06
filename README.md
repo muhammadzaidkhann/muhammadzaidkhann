@@ -5,7 +5,7 @@ I'm a Full-Stack Developer. I specialize in MERN Stack, Next.js and TypeScript, 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaid707khan@gmail.com) 
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 | Frontend      | Backend        | Database      | DevOps & Hosting  | Tools & Utilities  | Design & UI  |
 |--------------|---------------|--------------|-----------------|------------------|-------------|
