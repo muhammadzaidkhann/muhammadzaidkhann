@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Zaid Khan:
+## 💫 Hi, I'm Zaid Khan:
 I'm a Full-Stack Developer. I specialize in MERN Stack, Next.js and TypeScript, always eager to learn and explore new technologies.
 
 
